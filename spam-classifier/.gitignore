@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+models/*.joblib
+outputs/*.json
+data/raw_spam.csv
+data/spam_full.csv
+.DS_Store
